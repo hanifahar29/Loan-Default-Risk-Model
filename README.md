@@ -1,4 +1,4 @@
-# Loan_Default_Risk_Model
+# Loan Default Preediction
 
 Proyek ini bertujuan untuk mengembangkan model machine learning yang dapat mengidentifikasi probabilitas default kredit pelanggan. Probabilitas default adalah kemungkinan bahwa seorang pelanggan akan gagal membayar kredit tepat waktu.
 
